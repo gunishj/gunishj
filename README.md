@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Gunish Jha | Linkedin" width="20px" src="https://raw.githubusercontent.com/Gunishj/Gunishj/main/assets/linkedin.svg" />
 </a>
 
-<a href="https://leetcode.com/Gunishj/">
+<a href="https://leetcode.com/gunish/">
   <img align="left" alt="Gunish Jha | Leetcode" width="20px" src="https://raw.githubusercontent.com/Gunishj/Gunishj/main/assets/LeetCode.png" />
 </a>
 
