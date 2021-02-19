@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Scala, Spark, and Data pipelines. I have knowledge about Python, Flask restful, MySQL and NLP.
+- 🔭 I’m currently working on Scala, Spark, and Data pipelines. I have knowledge about Python, Flask restful, MySQL and ML/Deep Learning.
 - 🌱 I have worked on Javascript and Kotlin currently exploring more into it.
 - 📫 How to reach me: gunishjha@gmail.com
 
